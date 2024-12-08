@@ -2,4 +2,4 @@
 
 - 🔭 Trabalho com pequenos sistemas para desenvolver minhas habilidades
 - 🌱 Atualmente estou aprendendo node.js
-- 👯 vamos colaborar em um projeto legal? me envei uma mensagem. 
+- 👯 vamos colaborar em um projeto legal? me envie uma mensagem. 
