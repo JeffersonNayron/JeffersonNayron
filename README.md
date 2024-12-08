@@ -1,4 +1,4 @@
-## Olá! Eusou o Jefferson Nayron. 
+## Olá! Eu sou o Jefferson Nayron. 
 
 - 🔭 Trabalho com pequenos sistemas para desenvolver minhas habilidades
 - 🌱 Atualmente estou aprendendo node.js
